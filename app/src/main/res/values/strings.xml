@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mlaku</string>
+
+    <!-- Splash -->
+    <string name="text_title">Explore the Banyuwangi</string>
+    <string name="text_subtitle">Travel with people. Make new friends.</string>
+    <string name="text_sign_in">Sign In</string>
+    <string name="text_sign_up">Sign Up</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
