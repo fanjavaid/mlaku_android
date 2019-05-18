@@ -26,9 +26,4 @@ class SignUpFragment : Fragment() {
             findNavController().navigate(R.id.action_signUpFragment_to_signInFragment)
         }
     }
-
-    companion object {
-        @JvmStatic
-        fun newInstance() = SignUpFragment()
-    }
 }

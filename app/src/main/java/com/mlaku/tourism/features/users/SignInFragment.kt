@@ -24,9 +24,4 @@ class SignInFragment : Fragment() {
             findNavController().navigate(R.id.action_signInFragment_to_resetPasswordFragment)
         }
     }
-
-    companion object {
-        @JvmStatic
-        fun newInstance() = SignInFragment()
-    }
 }
